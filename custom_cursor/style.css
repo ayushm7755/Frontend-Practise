@@ -24,7 +24,7 @@ html, body{
     width: 20px;
     background-color: white;
     mix-blend-mode: difference;
-    border-radius: 50%;
+    border-radius: 50%; 
     position: absolute;
     transition: all linear 0.2s;
 
